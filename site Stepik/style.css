@@ -1,0 +1,31 @@
+body{
+    margin: auto;
+    max-width:70%;
+    
+}
+h1{
+    font-size:32px;
+    font-family:sans-serif;
+
+}
+h2{
+    font-family:sans-serif;
+}
+table{
+    border:1px solid black;
+}
+th{
+    border:1px solid black;
+}
+td{
+    border:1px solid black;
+}
+
+
+figure{
+    float:right;
+    font-style:italic;
+}
+img{
+    right: auto;
+}
